@@ -18,7 +18,6 @@ Fetch API for making asynchronous requests to the QuizAPI.
 Local Storage for storing user stats (correct and incorrect answers).
 API Information
 QuizAPI: This app uses the QuizAPI to fetch questions.
-API URL: https://quizapi.io/api/v1/questions?apiKey=[YOUR_API_KEY]&limit=1&difficulty=[DIFFICULTY_LEVEL]
 You can register and generate your API key on QuizAPI.
 The API response includes:
 The question text.
