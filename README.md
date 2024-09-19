@@ -1,3 +1,7 @@
+Capstone Project- Web Development
+Name: Khushmandeep
+Student number: 041128153
+GitHub username: khushmandeep10
 Quiz App
 Overview
 This is a simple Quiz web application that fetches random quiz questions from the QuizAPI based on user-selected difficulty. Users can answer the questions and get immediate feedback on whether their answer was correct or incorrect. The app tracks the number of correct and incorrect answers and stores these statistics in local storage, allowing users to reset the stats at any time.
