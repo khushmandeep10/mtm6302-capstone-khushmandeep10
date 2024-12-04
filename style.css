@@ -71,6 +71,10 @@ h1{
     color:white
 }
 
+.btn.disabled, .btn:disabled, fieldset:disabled .btn {
+    background-color: lightgray;
+    border-color: lightgray;
+}
 
 .answer-btns{
     background: #ecebeb;
@@ -87,4 +91,18 @@ h1{
     background: linear-gradient(to right, #000000, #8b7c71) ;
     color:white;
     border-color: grey ;
+}
+
+.suc-bg{
+    background-color: lawngreen;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 0 10px;
+}
+
+.fail-bg{
+    background-color: lightsalmon;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 0 10px;
 }
